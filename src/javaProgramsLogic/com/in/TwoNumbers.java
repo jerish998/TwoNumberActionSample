@@ -8,10 +8,16 @@ public class TwoNumbers {
 		// TODO Auto-generated method stub
 		/* sum of two numbers getting input from user */
 		//output
-		/*Enter the number to added:
-			2
-			3
-			the sum is :5  */
+		/*Enter the two numbers :
+		4
+		5
+		the sum is :9
+		the difference is:-1
+		The average is :4.0
+		the product is :20.0
+		the Division of First/second:0.0
+		the reminder is :4.0
+  */
 		Scanner obj = new Scanner(System.in);
 		int a, b, sum;
 		System.out.println("Enter the two numbers :");
